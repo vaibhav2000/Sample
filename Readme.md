@@ -12,6 +12,8 @@ These are the bullet points
 - Pt1
 - Pt2
 
+* ptr
+* ptr
 
 Input: 
 ```
