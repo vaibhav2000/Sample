@@ -6,9 +6,12 @@ Listen guys, this is the first readme.md file that i've ever uploaded.
 
 Please don't laugh.
 
+[This](https://github.com/vaibhav2000) is the link for my github profile.
+
 These are the bullet points
-*pt1 
-*pt2
+- Pt1
+- Pt2
+
 
 Input: 
 ```
