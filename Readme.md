@@ -3,7 +3,12 @@ Listen guys, this is the first readme.md file that i've ever uploaded.
 
 >Vaibhav 
 >next Change
+
 Please don't laugh.
+
+These are the bullet points
+-pt1 
+-pt2
 
 Input: 
 ```
