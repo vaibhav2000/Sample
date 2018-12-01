@@ -1,34 +1,27 @@
-# Heading
-Listen guys, this is the first readme.md file that i've ever uploaded.
+# Insertion Sort
 
->Vaibhav 
->next Change
+## Input Format
 
+The input consists of two lines-
+ * The first line contains a single integer **N**
+ * The second lines contains **N** space separated integers which are required to be sorted
 
-Please don't laugh.
+ ## Output Format
 
+ N space separated integers sorted in non-decreasing order
 
-## Final Change
+ ##Sample Input
 
-### Another Change
+ ```
+ 5
+ 5 2 4 3 1
+ ``` 
+ ##Sample Output
 
-[This](https://github.com/vaibhav2000) is the link for my github profile.
+ ```
+ 1 2 3 4 5
+ ```
 
-These are the bullet points
-- Pt1
-- Pt2
+ ##Implemented in:
 
-* ptr
-* ptr
-
-Input: 
-```
-5
-5 2 3 1 4
-```
-Output 
-
-```
-1 2 3 4 5
-```
-
+ * [C](insertion_sort.c)
